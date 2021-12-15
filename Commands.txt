@@ -1,2 +1,0 @@
-git config --global core.editor "code --wait"
-#to enable Code to capture changes when missing -m in cli
